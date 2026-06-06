@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/error123</id>
+  <title>ArXiv Query: search_query=&amp;id_list=bad.12345</title>
+  <updated>2026-06-05T23:59:03Z</updated>
+  <opensearch:itemsPerPage>1</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>https://arxiv.org/api/errors</id>
+    <title>Error</title>
+    <updated>2026-06-05T23:59:03Z</updated>
+    <link href="https://arxiv.org/api/errors#incorrect_id_format" rel="alternate" type="text/html"/>
+    <summary>incorrect id format for bad.12345</summary>
+    <author>
+      <name>arXiv api core</name>
+    </author>
+  </entry>
+</feed>

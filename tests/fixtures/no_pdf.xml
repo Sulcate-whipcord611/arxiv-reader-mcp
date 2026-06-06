@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/def789</id>
+  <title>ArXiv Query: search_query=all:test&amp;id_list=&amp;start=0&amp;max_results=1</title>
+  <updated>2026-06-05T23:59:03Z</updated>
+  <opensearch:itemsPerPage>1</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2301.07041v1</id>
+    <title>No PDF available</title>
+    <updated>2023-01-17T12:00:00Z</updated>
+    <published>2023-01-17T12:00:00Z</published>
+    <link href="https://arxiv.org/abs/2301.07041v1" rel="alternate" type="text/html"/>
+    <summary>This entry has no PDF link.</summary>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <arxiv:primary_category term="cs.AI"/>
+    <author>
+      <name>Charlie Brown</name>
+    </author>
+  </entry>
+</feed>

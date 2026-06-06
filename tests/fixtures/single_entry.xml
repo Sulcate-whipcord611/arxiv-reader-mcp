@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/abc123</id>
+  <title>ArXiv Query: search_query=all:quantum&amp;id_list=&amp;start=0&amp;max_results=1</title>
+  <updated>2026-06-05T23:59:03Z</updated>
+  <opensearch:itemsPerPage>1</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2512.10504v2</id>
+    <title>Tianyan: Cloud services with quantum advantage</title>
+    <updated>2025-12-16T01:28:55Z</updated>
+    <published>2025-12-11T10:23:39Z</published>
+    <link href="https://arxiv.org/abs/2512.10504v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2512.10504v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Tianyan Quantum Cloud Platform offers cloud services demonstrating quantum advantage capabilities.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Tianyan Quantum Group</name>
+    </author>
+  </entry>
+</feed>
