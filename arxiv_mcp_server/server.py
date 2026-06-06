@@ -138,7 +138,7 @@ def get_recent(category: str, max_results: int = 10) -> str:
 
 @server.tool(
     description="Search papers by query text, with optional category filter and date range. "
-    "Simpler than search_arxiv — just a search query plus optional category and date_from. "
+    "Simpler than search_arxiv - just a search query plus optional category and date_from. "
     "Use when the user provides a natural language query like 'papers about transformers' "
     "and optionally a category or start date. The query searches across all fields (title, abstract, authors).",
 )
