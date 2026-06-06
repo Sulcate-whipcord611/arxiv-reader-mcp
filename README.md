@@ -94,19 +94,25 @@ Ask Claude (or any MCP-compatible assistant):
 
 ### search_papers
 
-![query](assets/demo/search_papers/query.png)
-![result](assets/demo/search_papers/result.png)
+<p float="left">
+  <img src="assets/demo/search_papers/query.png" width="48%" />
+  <img src="assets/demo/search_papers/result.png" width="48%" />
+</p>
 
 ### get_paper
 
-![arxiv_id](assets/demo/get_paper/arxiv_id.png)
-![result](assets/demo/get_paper/result.png)
+<p float="left">
+  <img src="assets/demo/get_paper/arxiv_id.png" width="48%" />
+  <img src="assets/demo/get_paper/result.png" width="48%" />
+</p>
 
 ### fetch_pdf
 
-![arxiv_id](assets/demo/fetch_pdf/arxiv_id.png)
-![result 1](assets/demo/fetch_pdf/result_1.png)
-![result 2](assets/demo/fetch_pdf/result_2.png)
+<p float="left">
+  <img src="assets/demo/fetch_pdf/arxiv_id.png" width="32%" />
+  <img src="assets/demo/fetch_pdf/result_1.png" width="32%" />
+  <img src="assets/demo/fetch_pdf/result_2.png" width="32%" />
+</p>
 
 ## Contributing
 
