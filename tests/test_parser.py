@@ -1,5 +1,5 @@
 import pytest
-from arxiv_api import parseAtomFeed, ArxivApiError, ArxivError
+from arxiv_mcp_server.arxiv_api import parseAtomFeed, ArxivApiError, ArxivError
 
 FIXTURES = "tests/fixtures"
 

@@ -20,8 +20,5 @@ dev = [
 requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
-[tool.setuptools.packages.find]
-where = ["src"]
-
 [project.scripts]
-arxiv-mcp-server = "server:server.run"
+arxiv-mcp-server = "arxiv_mcp_server.server:main"

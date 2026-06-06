@@ -1,4 +1,4 @@
-from server import server
+from arxiv_mcp_server.server import main
 
-server.run()
+main()
 
